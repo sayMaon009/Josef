@@ -1,10 +1,6 @@
 ---
-name: Reporte um buh
-about: "\U0001F41B - Reporte um bug"
-title: ''
-labels: "Bug \U0001F41E, Português \U0001F1E7\U0001F1F7"
-assignees: ''
-
+Aqui: Reporte um bug!
+Nota: "Veja outros bugs antes de enviar!"
 ---
 
 **Qual seu bug?**

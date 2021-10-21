@@ -1,4 +1,4 @@
-<h1 align="center"🧙‍♂️ Josef</h1>
+# 🧙‍♂️ Josef
 
 ## Reporte o Bug!
 
